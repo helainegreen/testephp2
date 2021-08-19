@@ -1,3 +1,3 @@
 <?php 
-	echo "fodaseumcaralho";
+	echo "fodaseumcaralho!";
  ?>
